@@ -1,9 +1,9 @@
 - 👋 I’m @natokoa!
-- 📝 I'm working on a social site!
+- 📝 I'm working on N/A!
 - 📌 I prefer to work locally.
 - 🌌 My favorite language is N/A.
-- 🍃 My favorite framework is Laravel.
+- 🍃 My favorite framework is N/A.
 - 👀 I’m interested in fullstack!
-- 🌱 I’m currently learning React!
+- 🌱 I’m currently learning N/A!
 - 💞️ I’m not open to collaborate.
 - 📫 Email is available on my site!
