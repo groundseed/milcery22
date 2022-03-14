@@ -1,9 +1,0 @@
-- 👋 I’m @milcerye!
-- 📝 I'm working on Kireina!
-- 📌 I prefer to work locally.
-- 🌌 My favorite language is N/A.
-- 🍃 My favorite framework is N/A.
-- 👀 I’m interested in fullstack!
-- 🌱 I’m currently learning N/A!
-- 💞️ I’m not open to collaborate.
-- 📫 Email is unavailable at the moment.
