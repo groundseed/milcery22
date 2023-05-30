@@ -1,1 +1,1 @@
-<h1 style="text-align: center">(￣▽￣)ノ</h1>
+<p align="center">(￣▽￣)ノ</p>
